@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>../picture/icon_logging.png</file>
+    <file>../picture/icon_send.png</file>
+    <file>../picture/img_tab_rec.png</file>
+    <file>../picture/img_button_rec.png</file>
+    <file>../picture/piecasso.ico</file>
+  </qresource>
+</RCC>
